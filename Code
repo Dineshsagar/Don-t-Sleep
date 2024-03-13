@@ -6,7 +6,7 @@ print("Welcome to Don't Sleep")
 print("------")
 print("I will prevent your system from sleeping by giving short and sweet tasks :P")
 print("To exit the application, simply close the terminal.")
-print("------")
+print("-------")
 print("Developed with <3 by DS")
 while True: 
     pyautogui.press('volumedown')
