@@ -1,5 +1,4 @@
 ### Code ##################
-
 import pyautogui
 import time
 print("Welcome to Don't Sleep")
