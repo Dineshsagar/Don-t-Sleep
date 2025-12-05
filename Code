@@ -2,7 +2,6 @@
 import pyautogui
 import time
 print("Welcome to Don't Sleep")
-
 print("-------Started------")
 
 print("I will prevent your system from sleeping by giving short and sweet tasks :P")
