@@ -1,4 +1,19 @@
 ### Code ##################
+"""
+Don't Sleep - System Sleep Prevention Application
+
+A utility application that prevents the system from entering sleep mode by 
+simulating periodic user activity through volume control key presses.
+
+The application runs in an infinite loop, pressing the volume down and up keys
+at regular intervals to keep the system active and prevent it from sleeping.
+
+Usage:
+    Run the script and it will continuously generate activity. Close the 
+    terminal to exit the application.
+
+Author: DS
+"""
 import pyautogui
 import time
 print("Welcome to Don't Sleep")
