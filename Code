@@ -10,10 +10,9 @@ at regular intervals to keep the system active and prevent it from sleeping.
 
 Usage:
     Run the script and it will continuously generate activity. Close the 
-    terminal to exit the application.
+    terminal to exit the application
+    
 
-    
-    
 Author: DS
 """
 import pyautogui
