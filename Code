@@ -12,6 +12,8 @@ Usage:
     Run the script and it will continuously generate activity. Close the 
     terminal to exit the application.
 
+    
+    
 Author: DS
 """
 import pyautogui
