@@ -11,7 +11,7 @@ Usage:
     Run the script and it will continuously generate activity. Close the 
     terminal to exit the applicatio
 
-Author: DS4
+Author: DS
 """
 import pyautogui
 import time
