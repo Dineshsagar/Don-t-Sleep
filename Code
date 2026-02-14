@@ -12,6 +12,7 @@ Usage:
     terminal to exit the applicatio
 
 Author: DS
+s
 """
 import pyautogui
 import time
